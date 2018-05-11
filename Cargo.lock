@@ -1,0 +1,14 @@
+[[package]]
+name = "rquantiles"
+version = "0.1.0"
+dependencies = [
+ "rustr 0.1.9 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "rustr"
+version = "0.1.9"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum rustr 0.1.9 (registry+https://github.com/rust-lang/crates.io-index)" = "c785c263dc2c0fdec5d4006732a1505d9f0fc1dc059a505a7ed2f7f91574de64"
